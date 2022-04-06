@@ -1,4 +1,4 @@
-## Abortion in Ireland: Analyzing shifting public discourse via Twitter sentiment analysis
+è## Abortion in Ireland: Analyzing shifting public discourse via Twitter sentiment analysis
 
 
 On December 20th, 2018, the Health (Regulation of Termination of Pregnancy) Act legalized abortion in Ireland. This act followed the results of a successful referendum, held in May 2018, to repeal Ireland’s 8th constitutional amendment, which had framed the fetal rights as constitutional rights. This referendum passed by a wide margin, with 66.4% of the Irish people voting “yes”, thus making the legalisation of abortion a reality in the country.
@@ -50,15 +50,19 @@ If we had gone further in the analysis, we would have been interested in further
 ## Findings
 Sentiment Analysis
 
+<img width="352" alt="DDPS1" src="https://user-images.githubusercontent.com/102414951/161979368-0367b8fc-1af4-44d6-a65c-aa202aaa4ffd.PNG">
 
 
 Overall, before data cleaning, there was not a significant shift in polarization within the +/- 1 month or year analysis. This analysis looked at how sentiment associated with the term abortion was expressed within each time period (e.g., delta of 3% positive and 6% negative in a month timeframe). When comparing across results, it is relevant to highlight that in the long run (2 year timeframe), sentiment expressed towards abortion was relatively equally likely to be positive or negative (average delta of 3%). But in comparison to the period closer to when the law was passed (2 month timeframe), sentiment was overwhelmingly positive (average delta of 18%). 
+
+<img width="453" alt="DDPS2" src="https://user-images.githubusercontent.com/102414951/161979432-c254985a-620b-4b91-aa6f-84c0cd027620.PNG">
 
 After data cleaning (removal of retweets and dropped duplicate tweets), it is interesting to note that the proportion of neutral tweets dropped, showing increasing likelihood that people were expressing either positive or negative sentiment towards the topic. While in the first analysis, the sentiment was primarily positive in the +/- one year timeframe, in the second analysis, the sentiment is only slightly more likely to be positive than negative.
 
 
 Key Word Aggregation
 
+<img width="341" alt="DDPS3" src="https://user-images.githubusercontent.com/102414951/161979495-34696239-87c7-403d-b3eb-2c92746288aa.PNG">
 
 The key word analysis took into consideration the most frequently used words across all tweets related to our keywords “abortion” and “Ireland”. From our look into the most frequently posting accounts on this topic, we found that a sizable portion of the tweets sources come from news outlets. Thus it makes sense that many of the most frequently used words across all time periods were related to news-worthy facts or policy: “legal”, “president”, “amendement”, “8th [referendum]”. However, as we got closer to the period of legalization (+/- 1 mo.), more personal and political keywords such as “feminist”, “Savita [Halappanavar]”, “incredible”, “illegal”, “travels'' emerged. In the long run (+/- year), a different set of stakeholders, primarily associated with the rhetoric of the pro-life camp, emerged: “bishops”, “priests”, “predator”.
 Prior to the legalization of abortion, key words associated with positive sentiments such as ‘’Baby’, ‘Children’, ’Save’ might be used to appeal the public in opposition of abortion. This shows that the side against legalization of abortion does not necessarily use negative and pejorative terms. Likewise, after the legalization of abortion, ‘Solidarity’, ‘Women’, ‘Right’ are key positive terms associated with women’s rights and the feminism movement in favor of the right to abortion. ‘Positive’ terms can be used by both sides and this is a key element for sentiment analysis. Regarding negative sentiments, ‘Bishops’, ’Service’, ‘unjust’ are terms translating the intense condemnation of Catholic bishops against abortion law and supporting services in Ireland.
@@ -67,9 +71,11 @@ Word Pairings by Frequency : N-gram (n2, n3)
 
 Results from the word pairings by frequency analysis (-/+ 1 month) show that word pairings are more likely to reflect the pro-life perspective (“‘kill babies abortion’, ‘95% doctors Ireland’, ‘refusing kill’”) (Life News).
 
+<img width="469" alt="DDPS4" src="https://user-images.githubusercontent.com/102414951/161979547-35967c6e-92e0-4b70-92f4-587448a8f84e.PNG">
+
 One month before the referendum of May 2018
 
-
+<img width="416" alt="DDPS5" src="https://user-images.githubusercontent.com/102414951/161979589-2c46fac7-6657-4d21-981b-c92bee47c24f.PNG">
 
 In retrospect, a stronger reference point for our analysis could be to look at opinions before and after the referendum vote, not legalization through the bill. We took an initial look into the month prior to the referendum vote in order to better understand this point in time.
 Looking at the most prolific users, there is a strong representation from pro-life accounts and the media, although the top user was pro-choice. The language represented in the word cloud is much harsher and more demanding or persuasive to the audience than tweets from after the referendum passed. The difference in intensity of terms between this analysis and the one using December 20th as a reference could be explained by the fact that by December 20th 2018, the referendum already passed, which meant that it was inevitable that legalized abortion would become accessible in Ireland. For individual Twitter users (particularly from the ‘pro-life’ side), this could mean recognition of a shift in public opinion regarding this topic. 
