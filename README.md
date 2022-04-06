@@ -1,4 +1,4 @@
-è## Abortion in Ireland: Analyzing shifting public discourse via Twitter sentiment analysis
+## Abortion in Ireland: Analyzing shifting public discourse via Twitter sentiment analysis
 
 
 On December 20th, 2018, the Health (Regulation of Termination of Pregnancy) Act legalized abortion in Ireland. This act followed the results of a successful referendum, held in May 2018, to repeal Ireland’s 8th constitutional amendment, which had framed the fetal rights as constitutional rights. This referendum passed by a wide margin, with 66.4% of the Irish people voting “yes”, thus making the legalisation of abortion a reality in the country.
