@@ -95,7 +95,40 @@ Due to limited access to location information, we analyzed across the world rath
 
 Ethical consideration
 There are also ethical considerations about collecting individual tweets from the general public that can be tied back to their individual identities; we did not anonymize our data.
+
 Sentiment Analysis
 Although we analyzed whether the tweet had a generally positive or negative sentiment, people can speak both negatively and positively about pro-life and pro-choice positions, making it hard to identify positions.
+
 Finally, the limitations of the Twitter API, Minet tool for data collection, and our own limited Python capabilities challenged our ability to fully explore the research question.
+
+## References 
+
+Bilger, M (2019). 95% of Doctors in Ireland are Refusing to Kill Babies in Abortions. Lifenews.com
+
+Henley, J. (2018, May 26). Irish abortion referendum : Yes wins with 66.4% – as it happened. The Guardian.
+
+Garimella,K., Morales, G., Gionis, A. and Mathioudakis, M. (2018). Quantifying controversy on social media. ACM Transactions on Social Computing 1, 1 (2018), 3.
+
+Jones, A. (2020, décembre). Sentiment Analysis of Tweets. Towards Data Science.
+
+Mustonen, A.-M., Paakkonen, T., Ryökäs, E., & Nieminen, P. (2017). Abortion debates in Finland and the Republic of Ireland : Textual analysis of experiential thinking and argumentation in parliamentary and layperson discussions. Reproductive Health, 14(1), 163. https://doi.org/10.1186/s12978-017-0418-y
+
+Nicolajsen, M. B. (2017). The Debate on Abortion in Northern Ireland : An examination of voices and frames in mainstream media. Aalborg University.
+
+O’Brien, C. (2018). Facebook bans foreign ads for Eighth Amendment referendum. The Irish Times.
+
+O’Brien, C., & Fiach, K. (2018). Google bans online ads on abortion referendum. The Irish Times.
+
+Ronit, L. (2013). A woman died : Abortion and the politics of birth in Ireland. Feminist review, 105, 130‑136. https://doi.org/10.1057/fr.2013.21
+
+Satariano. A (2018) Before Irish Abortion Vote, Facebook Adds Tools to Curb Interference. The New York Times. 
+
+Satariano. A and O’Loughlin. E (2018) Ireland’s Abortion Referendum Becomes a Test for Facebook and Google. The New York Times. 
+
+Taylor, M., Spillane, A., & Arulkumaran, S. S. (2020). The Irish Journey : Removing the shackles of abortion restrictions in Ireland. Best Practice & Research Clinical Obstetrics & Gynaecology, 62, 36‑48. https://doi.org/10.1016/j.bpobgyn.2019.05.011
+
+Tilly. C(1978). From Mobilization to Revolution. Reading, Massachusetts: Addison-Wesley
+
+Yeginsu, C. (2019). Northern Ireland Set to Legalize Abortion and Same-Sex Marriage. The New York Times.
+
 
