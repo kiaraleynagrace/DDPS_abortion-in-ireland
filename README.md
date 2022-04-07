@@ -1,15 +1,15 @@
 ## Abortion in Ireland: Analyzing shifting public discourse via Twitter sentiment analysis
 
 
-On December 20th, 2018, the Health (Regulation of Termination of Pregnancy) Act legalized abortion in Ireland. This act followed the results of a successful referendum, held in May 2018, to repeal Ireland’s 8th constitutional amendment, which had framed the fetal rights as constitutional rights. This referendum passed by a wide margin, with 66.4% of the Irish people voting “yes”, thus making the legalisation of abortion a reality in the country.
+On December 20th, 2018, the Health (Regulation of Termination of Pregnancy) Act legalized abortion in Ireland (Yeginsu, C. (2019). Northern Ireland Set to Legalize Abortion and Same-Sex Marriage. The New York Times). This act followed the results of a successful referendum, held in May 2018, to repeal Ireland’s 8th constitutional amendment, which had framed the fetal rights as constitutional rights (Ronit, L. (2013). A woman died : Abortion and the politics of birth in Ireland. Feminist review, 105, 130‑136). This referendum passed by a wide margin, with 66.4% of the Irish people voting “yes”, thus making the legalisation of abortion a reality in the country.
 
 ## Background on abortion regulation in Ireland 
 
-In 1861, the Offences Against the Person Act in Great Britain made abortion illegal by criminalizing women, and any individual assisting them, who sought to “procure a miscarriage”. Women who violated the act could face life in prison. When Ireland secured its independence from Great Britain in 1922, the law was kept. Further, in the 1980s the law was reinforced by the Irish “pro-life” camp, which initiated the 8th constitutional amendment declaring the “the right to life of the unborn” as “equal to the right of life of the mother”, thus enshrining fetal rights in the constitution. 
+In 1861, the Offences Against the Person Act in Great Britain made abortion illegal by criminalizing women, and any individual assisting them, who sought to “procure a miscarriage”. Women who violated the act could face life in prison. When Ireland secured its independence from Great Britain in 1922, the law was kept. Further, in the 1980s the law was reinforced by the Irish “pro-life” camp, which initiated the 8th constitutional amendment declaring the “the right to life of the unborn” as “equal to the right of life of the mother”, thus enshrining fetal rights in the constitution (Ronit, L. (2013). A woman died : Abortion and the politics of birth in Ireland. Feminist review, 105, 130‑136). 
 
 Since the 1980s, the abortion conversation in Ireland slowly shifted towards a pro-choice perspective. In 1992, the “X Case” became the first case of permitted abortion when pregnancy threatens one’s life. In the case, a fourteen-year-old girl was raped; when she sought to obtain an abortion in Britain she was prevented from leaving the country by the Irish High Court. As a result, the girl became suicidal. To protect her life, the Supreme Court allowed her to end her pregnancy in Ireland. 
 
-Two decades later, in 2012, Savita Halappanavar became internationally known when she died after a doctor refused to terminate her pregnancy. The global outrage led to pressure from neighboring European countries, social movements, and human rights movements for Ireland to expand abortion access. 
+Two decades later, in 2012, Savita Halappanavar became internationally known when she died after a doctor refused to terminate her pregnancy. The global outrage led to pressure from neighboring European countries, social movements, and human rights movements for Ireland to expand abortion access (Ronit, L. (2013). A woman died : Abortion and the politics of birth in Ireland. Feminist review, 105, 130‑13). 
 
 
 ### The polarization of public opinion
@@ -31,7 +31,7 @@ Why did we choose Twitter?
 We decided to use Twitter as our main research tool. Indeed, Twitter is generally considered a valuable tool for researchers and organizations who wish to monitor satisfaction and sentiment through a large volume of feedback. 
 
 The use of paid online advertising became one of the campaign’s biggest talking points. 
-Data collected by the Transparent Referendum Initiative (TRI) found that prior to the ban on foreign political advertising on May 8th, eleven Facebook pages based outside Ireland targeted Irish voters. Eight of these eleven pages were posting anti-repeal content. 
+Data collected by the Transparent Referendum Initiative (TRI) found that prior to the ban on foreign political advertising on May 8th, eleven Facebook pages based outside Ireland targeted Irish voters. Eight of these eleven pages were posting anti-repeal content (O’Brien, C. (2018). Facebook bans foreign ads for Eighth Amendment referendum. The Irish Times).
 
 The foreign Facebook accounts running campaigns included:
 Let Them Live: A US-based anti-abortion rights group who posted fundraising campaigns encouraging their members to travel to Ireland to support the pro-life campaign.
