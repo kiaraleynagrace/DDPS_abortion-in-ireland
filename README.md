@@ -34,9 +34,9 @@ The use of paid online advertising became one of the campaign’s biggest talkin
 Data collected by the Transparent Referendum Initiative (TRI) found that prior to the ban on foreign political advertising on May 8th, eleven Facebook pages based outside Ireland targeted Irish voters. Eight of these eleven pages were posting anti-repeal content. 
 
 The foreign Facebook accounts running campaigns included:
-Let Them Live: A US-based anti-abortion rights group who posted fundraising campaigns encouraging their members to travel to Ireland to support the pro-life campaign
-LifeSiteNews.com: A Canadian news site that describes itself as “the #1 pro-life news website”
-Radiance Foundation: A US-based religious charity that strives to “educate audiences about societal issues and how they impact the understanding of God-given purpose”, including sharing a pro-life message
+Let Them Live: A US-based anti-abortion rights group who posted fundraising campaigns encouraging their members to travel to Ireland to support the pro-life campaign.
+LifeSiteNews.com: A Canadian news site that describes itself as “the #1 pro-life news website”.
+Radiance Foundation: A US-based religious charity that strives to “educate audiences about societal issues and how they impact the understanding of God-given purpose”, including sharing a pro-life message.
 
 After significant media coverage and concern about foreign influence through paid ads on Facebook, the platform issued a ban on organizations outside of Ireland targeting Irish voters with ads relating to the referendum. Given this ban, we chose to exclude Facebook posts from our analysis. Google took a similar approach and chose to stop all advertisements, foreign and domestic, related to the 8th Amendment among concerns about the integrity of the referendum. 
 
